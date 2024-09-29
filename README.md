@@ -15,9 +15,10 @@ https://github.com/ESLyric/release/releases/download/1.0.0.1023/foo_uie_eslyric.
 
 ![(I9 TJPZT~AH~7BK$FH%76X](https://github.com/user-attachments/assets/0b1c1c08-08f4-44ef-b887-9c556ab01737)
 
+![VLY7$1E`}J {1L8$ RSEALD](https://github.com/user-attachments/assets/558e9a26-bafe-436c-be68-79fe8d52240e)
+
 ![L{)DF)}~}}MS4ZXK7(I4099](https://github.com/user-attachments/assets/5765686e-da8d-4d52-ba9a-0279945a5d8d)
 
-![VLY7$1E`}J {1L8$ RSEALD](https://github.com/user-attachments/assets/558e9a26-bafe-436c-be68-79fe8d52240e)
 布局文件
 https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml
 先把文件拖到C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\layout这个路径，如果找不到，可以去安装文件夹找有没有porfie这个文件夹，里面会有后面的eslyric-data\layout
