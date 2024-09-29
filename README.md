@@ -21,13 +21,13 @@ https://github.com/ESLyric/release/releases/download/1.0.0.1023/foo_uie_eslyric.
 
 布局文件
 https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml
+
 先把文件拖到C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\layout这个路径，如果找不到，可以去安装文件夹找有没有porfie这个文件夹，里面会有后面的eslyric-data\layout
 
 ![A}4C@ZNWS22})PDPLUAVIWT](https://github.com/user-attachments/assets/59d558e1-2b8d-4d0c-a0bd-bb1681cd1a22)
 
 ![%~1W~{1{}F__B$%VQC$(60L](https://github.com/user-attachments/assets/75f07529-2b26-4145-85ed-dbc0cab2726a)
 
-![N(6`@L{_7XOKLL%D1PA$7NW](https://github.com/user-attachments/assets/2684afaf-96b5-475a-a8a6-af6106e9e681)
 
 然后回全屏面板参数选自定义布局就行了
 
