@@ -28,14 +28,6 @@ https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyri
 
 ![%~1W~{1{}F__B$%VQC$(60L](https://github.com/user-attachments/assets/75f07529-2b26-4145-85ed-dbc0cab2726a)
 
-如果出现了左侧标题等行高字体显示一半，显示不全
-可以试一试改一下行高，或者字号，高就改大一点，改一下就保存一下，会实时显示的
-每个人的电脑屏幕还有字体设置大小不同就这样
-
-![Uploading 371909031-5982ad4e-7f88-4ad2-b5bb-da4472293e9e.jpg…]()
-
-
-
 然后回全屏面板参数选自定义布局就行了
 
 ![N(6`@L{_7XOKLL%D1PA$7NW](https://github.com/user-attachments/assets/3948741f-589c-4f88-ae6e-324c630b531a)
