@@ -23,7 +23,10 @@ https://wwpt.lanzoul.com/b02ihth1de
 ![L{)DF)}~}}MS4ZXK7(I4099](https://github.com/user-attachments/assets/5765686e-da8d-4d52-ba9a-0279945a5d8d)
 
 布局文件
-[https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml](https://wwpt.lanzoul.com/b02ihth1de
+
+[https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml]
+
+(https://wwpt.lanzoul.com/b02ihth1de
 密码:7cx5)
 
 先把文件拖到C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\layout这个路径，如果找不到，可以去安装文件夹找有没有porfie这个文件夹，里面会有后面的eslyric-data\layout
