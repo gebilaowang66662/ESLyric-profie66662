@@ -2,6 +2,9 @@
 
 https://github.com/ESLyric/release/releases/download/1.0.0.1023/foo_uie_eslyric.fb2k-component
 
+https://wwpt.lanzoul.com/b02ihth1de
+密码:7cx5
+
 第一次根据作者给的配置做这种界面，可能标题什么的会出现错位，文字显示不全，可以在本贴反馈
 彷的苹果界面，目前作者没有添加进度条还有播放按钮，只能是这样
 
@@ -20,7 +23,8 @@ https://github.com/ESLyric/release/releases/download/1.0.0.1023/foo_uie_eslyric.
 ![L{)DF)}~}}MS4ZXK7(I4099](https://github.com/user-attachments/assets/5765686e-da8d-4d52-ba9a-0279945a5d8d)
 
 布局文件
-https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml
+[https://github.com/gebilaowang66662/ESLyric-profie66662/releases/download/ESLyric/default.xml](https://wwpt.lanzoul.com/b02ihth1de
+密码:7cx5)
 
 先把文件拖到C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\layout这个路径，如果找不到，可以去安装文件夹找有没有porfie这个文件夹，里面会有后面的eslyric-data\layout
 
