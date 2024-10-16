@@ -48,3 +48,7 @@ https://wwpt.lanzoul.com/b02ihth1de
 这个是ios的字体
 
 https://developer.apple.com/fonts/
+
+这个是spotify-mix的字体
+
+https://en.bestfonts.pro/font/spotify-mix
