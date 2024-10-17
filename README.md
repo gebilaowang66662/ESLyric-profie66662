@@ -1,6 +1,6 @@
 要用新版的ESLyric
 
-https://github.com/ESLyric/release/releases/download/1.0.0.1023/foo_uie_eslyric.fb2k-component
+https://github.com/ESLyric/release/releases
 
 https://wwpt.lanzoul.com/b02ihth1de
 密码:7cx5
