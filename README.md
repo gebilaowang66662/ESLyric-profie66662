@@ -19,6 +19,9 @@ https://github.com/ESLyric/release/wiki/%E9%9D%A2%E6%9D%BF%E5%B8%83%E5%B1%80
           </element>
         </panel>
 
+
+可以复制进txt，然后后缀改为.xml
+
 # 1.下载
 
 要用新版的ESLyric           
