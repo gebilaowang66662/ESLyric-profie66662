@@ -15,13 +15,13 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 密码:7cx5
 
+------------------------------------------------------------------------------------------
 
 按照下图安装插件重启软件
 
 ![image](https://github.com/user-attachments/assets/0b41147a-ee0c-406f-b380-8d0dbd50ffdb)
 
-
-没出现插件界面怎么办
+安装完后没出现插件界面怎么办
 
 找到视图开启快速编辑模式
 
@@ -35,6 +35,7 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 ![image](https://github.com/user-attachments/assets/0a9083a2-a7f9-4d9e-b1f0-d264791d28c0)
 
+------------------------------------------------------------------------------------------
 效果图
 ![image](https://github.com/user-attachments/assets/2dabbb1b-3842-4c0f-b46b-1716b95899b1)
 
@@ -121,6 +122,8 @@ C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\e
 
 ![image](https://github.com/user-attachments/assets/34da1afd-716d-4a30-8fc0-8c6fbd6df6ae)
 
+------------------------------------------------------------------------------------------
+
 下面是逐字歌词源
 
 原地址：https://github.com/Robotxm/ESLyric-LyricsSource
@@ -167,11 +170,24 @@ C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
 ![image](https://github.com/user-attachments/assets/d8cef639-a24e-43bf-be0f-311aa612e765)
 
+------------------------------------------------------------------------------------------
+
+歌词上面有原唱那些东西怎么去除
+
+就像下图一样
+![image](https://github.com/user-attachments/assets/c54782e3-ebac-4c72-add9-046551cc2eba)
+
+打开软件设置，选择通配符移除，里面的*代表若干字
+
+如果你要去除像这样的【 演唱：林俊杰 】，然后有很多歌曲开头也有这个，你可以填 （演唱：*）
+
+![image](https://github.com/user-attachments/assets/7b8caf75-5654-44bf-a634-dce61aa19ba7)
+
+------------------------------------------------------------------------------------------
 
 要给歌曲嵌入封面，要不黑压压的看的丑
 
 ![image](https://github.com/user-attachments/assets/df4ea3e5-778d-463f-90f1-b1ab8945601e)
-
 
 [Windows] 音乐标签 v1.0.3.1—给本地音乐内置歌词和专辑封面！
 
@@ -179,6 +195,7 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ![image](https://github.com/user-attachments/assets/4809c0ed-a5db-4279-bfad-9dfee15ea0b4)
 
+------------------------------------------------------------------------------------------
 
 这个插件搜索歌词是读取歌曲的标签字段
 
@@ -190,6 +207,8 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ![image](https://github.com/user-attachments/assets/dcf5efad-429b-4f58-ba5b-7bf576de7997)
 
+------------------------------------------------------------------------------------------
+
 如果歌曲没有歌词显示
 
 ![image](https://github.com/user-attachments/assets/4363b780-39aa-4680-8982-a6d3233735d9)
@@ -198,6 +217,7 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ![image](https://github.com/user-attachments/assets/d274ad23-5715-44db-8f7b-bdd0d5cb0236)
 
+------------------------------------------------------------------------------------------
 
 这个是ios的字体
 
