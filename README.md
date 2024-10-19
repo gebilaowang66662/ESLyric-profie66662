@@ -169,6 +169,15 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ![image](https://github.com/user-attachments/assets/dcf5efad-429b-4f58-ba5b-7bf576de7997)
 
+如果歌曲没有歌词显示
+
+![image](https://github.com/user-attachments/assets/4363b780-39aa-4680-8982-a6d3233735d9)
+
+可以这里自定义
+
+![image](https://github.com/user-attachments/assets/d274ad23-5715-44db-8f7b-bdd0d5cb0236)
+
+
 这个是ios的字体
 https://developer.apple.com/fonts/
 这个是spotify-mix的字体
