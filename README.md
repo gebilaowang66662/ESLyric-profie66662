@@ -179,6 +179,15 @@ C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
 ![image](https://github.com/user-attachments/assets/d8cef639-a24e-43bf-be0f-311aa612e765)
 
+当插件搜索到歌词后
+
+可以把歌词保存到歌曲文件里面
+
+右键歌词界面
+
+![image](https://github.com/user-attachments/assets/3d25fa3d-2d56-4fd8-9073-32a408058b59)
+
+
 ------------------------------------------------------------------------------------------
 
 5.歌词规则
