@@ -18,7 +18,7 @@ ESLyric插件和布局文件：
 https://wwpt.lanzoul.com/b02ihth1de
 
 密码:7cx5
-
+    
 ------------------------------------------------------------------------------------------
 
 # 2.安装 
@@ -89,13 +89,15 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 然后把布局文件拖到
 
-C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\eslyric-data\layout
+    C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\eslyric-data\layout
 
 这个路径是安装版本的，
 
 ![image](https://github.com/user-attachments/assets/0693183d-f641-4b24-ad25-f19ada4fbef2)
 
-如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，这个是便携版的，里面会有后面的eslyric-data\layout
+如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，这个是便携版的，里面会有后面的
+
+    eslyric-data\layout
 
 ![image](https://github.com/user-attachments/assets/d019c3c7-d820-4559-9fa6-1e856e879e42)
 
@@ -161,11 +163,13 @@ https://wwpt.lanzoul.com/b02ihth1de https://wwpt.lanzoul.com/b02ihth1de
 
 放这里
 
-C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
+    C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
 这个路径
 
-如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，里面会有后面的eslyric-data\scripts
+如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，里面会有后面的
+
+    eslyric-data\scripts
 
 ![image](https://github.com/user-attachments/assets/7fd4ecc1-2047-4559-9222-7f11a8ddd409)
 
