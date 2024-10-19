@@ -1,8 +1,9 @@
 # 0.xml配置文件 
 
-参考
+接口参考
 
 https://github.com/ESLyric/release/wiki/%E9%9D%A2%E6%9D%BF%E5%B8%83%E5%B1%80
+
 
         <panel layout="stack" name="自定义布局" orientation="horizonal">
           <element type="text" caption=""anchor="left" height="100%" width="3%"/>
