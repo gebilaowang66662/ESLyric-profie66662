@@ -1,4 +1,4 @@
-# 0. .xml配置
+# 0. .xml配置文件 
 
         <panel layout="stack" name="自定义布局" orientation="horizonal">
           <element type="text" caption=""anchor="left" height="100%" width="3%"/>
