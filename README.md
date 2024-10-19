@@ -2,7 +2,9 @@
 =
 要用新版的ESLyric
 
-作者GitHub项目，可以收藏看看有没有更新：https://github.com/ESLyric/release
+作者GitHub项目，可以收藏看看有没有更新：
+
+https://github.com/ESLyric/release
 
 ![image](https://github.com/user-attachments/assets/83cc4dbd-87b8-4d91-b190-6e5d278cf1a1)
 
@@ -252,6 +254,6 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 https://developer.apple.com/fonts/
 
-这个是spotify-mix的字体
+这个是spotify-mix的字体（只支持英文，想支持其他字体得靠软件将其他的字体库合成）
 
 https://en.bestfonts.pro/font/spotify-mix
