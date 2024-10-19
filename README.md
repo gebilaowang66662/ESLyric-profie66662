@@ -20,7 +20,7 @@ https://github.com/ESLyric/release/wiki/%E9%9D%A2%E6%9D%BF%E5%B8%83%E5%B1%80
         </panel>
 
 
-可以复制进txt，然后后缀改为.xml
+可以复制进`txt`，然后后缀改为`.xml`
 
 # 1.下载
 
@@ -53,15 +53,15 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 安装完后没出现插件界面怎么办
 
-找到视图开启快速编辑模式
+找到视图开启`快速编辑模式`
 
 ![image](https://github.com/user-attachments/assets/bbd8b7ad-5ecd-4860-932e-9ad7085ddbd1)
 
-右键替换选ESLyric
+右键替换选`ESLyric`
 
 ![image](https://github.com/user-attachments/assets/8fbecf24-14a2-4425-a4b8-f234597766f7)
 
-有了就回去取消快速编辑模式
+有了就回去取消`快速编辑模式`
 
 ![image](https://github.com/user-attachments/assets/0a9083a2-a7f9-4d9e-b1f0-d264791d28c0)
 
@@ -80,7 +80,7 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 因为每个人的电脑屏幕大小不同，数值也不同，可以自己把控，调的像一点就行。
 
-因为外面的界面和全屏的界面是独立的设置的所以先进全屏模式
+因为外面的界面和全屏的界面是独立的设置的所以先进`全屏模式`
 
 右键界面
 
@@ -100,13 +100,13 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 ![image](https://github.com/user-attachments/assets/09693ac2-c83e-499f-a49f-729c3d9e5cd9)
 
-高亮歌词太偏了，可以这里调
+`高亮歌词`太偏了，可以这里调
 
 ![image](https://github.com/user-attachments/assets/0fd13294-fa67-43b4-83dd-6e85af034ceb)
 
 ![image](https://github.com/user-attachments/assets/6b18e9d3-8962-4470-a886-90ed209c78f9)
 
-可以试试动态模糊
+可以试试`动态模糊`
 
 ![image](https://github.com/user-attachments/assets/c72f7dcc-eb40-49d4-b8e6-3e26e4f8cfb5)
 
@@ -115,17 +115,17 @@ https://wwpt.lanzoul.com/b02ihth1de
 
     C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\eslyric-data\layout
 
-这个路径是安装版本的，
+这个路径是安装版本的
 
 ![image](https://github.com/user-attachments/assets/0693183d-f641-4b24-ad25-f19ada4fbef2)
 
-如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，这个是便携版的，里面会有后面的
+如果找不到，可以去安装文件夹找有没有 `profie` 这个文件夹，这个是便携版的，里面会有后面的
 
     eslyric-data\layout
 
 ![image](https://github.com/user-attachments/assets/d019c3c7-d820-4559-9fa6-1e856e879e42)
 
-然后回全屏面板参数选自定义布局就行了
+然后回全屏面板参数选`自定义布局`就行了
 
 右键界面
 
@@ -151,11 +151,11 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 ![image](https://github.com/user-attachments/assets/9fc7e46c-a947-402d-8a05-49bf4515944e)
 
-可以试一试改一下行高，或者字号，高就改大一点，改一下就保存一下，会实时显示的
+可以试一试改一下行高`height=" "`，或者字号`font-size=" "`，高就改大一点，改一下就保存一下，会实时显示的
 
 每个人的电脑屏幕还有字体设置大小不同就这样
 
-用文本记事本打开刚刚放置的配置文件.xml，调整下图参数
+用文本记事本打开刚刚放置的配置文件`.xml`，调整下图参数
 
 ![image](https://github.com/user-attachments/assets/34da1afd-716d-4a30-8fc0-8c6fbd6df6ae)
 
@@ -179,11 +179,11 @@ https://wwpt.lanzoul.com/b02ihth1de https://wwpt.lanzoul.com/b02ihth1de
 
 下好解压
 
-因为我们这个插件是新版，选current
+因为我们这个插件是新版，选`current`
 
 ![image](https://github.com/user-attachments/assets/2e7affcd-08ec-45d1-bf96-a6916f5547a6)
 
-里面是酷狗，网易云，QQ逐字的源
+里面是`酷狗`，`网易云`，`QQ`逐字的源
 
 放这里
 
@@ -191,23 +191,25 @@ https://wwpt.lanzoul.com/b02ihth1de https://wwpt.lanzoul.com/b02ihth1de
 
 这个路径
 
-如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，里面会有后面的
+如果找不到，可以去安装文件夹找有没有 `profie` 这个文件夹，里面会有后面的
 
     eslyric-data\scripts
 
 ![image](https://github.com/user-attachments/assets/7fd4ecc1-2047-4559-9222-7f11a8ddd409)
 
-记得把转换标准取消勾选，没有就不用管
+
+
+记得把`转换为标准格式`取消勾选，没有就不用管
 
 ![image](https://github.com/user-attachments/assets/3136593d-4451-43a5-8234-14e456995adc)
 
-还有把EX来源勾上
+还有把`EX`源勾上
 
 ![image](https://github.com/user-attachments/assets/6b1725d1-18df-461c-b783-f550c4229444)
 
-只有EX源是逐字，酷狗有没有逐字看运气
+只有`EX`源是逐字，酷狗有没有逐字看运气
 
-再打开卡拉OK模式下面的增强歌词
+再打开`卡拉OK模式`下面的`增强歌词`
 
 因为外面的界面和全屏的界面是独立的设置的所以两个都要选
 
@@ -233,9 +235,9 @@ https://wwpt.lanzoul.com/b02ihth1de https://wwpt.lanzoul.com/b02ihth1de
 就像下图一样
 ![image](https://github.com/user-attachments/assets/c54782e3-ebac-4c72-add9-046551cc2eba)
 
-打开软件设置，选择通配符移除，里面的*代表若干字
+打开软件设置，选择通配符移除，里面的`*`代表若干字
 
-如果你要去除像这样的【 演唱：林俊杰 】，然后有很多歌曲开头也有这个，你可以填 （演唱：*）
+如果你要去除像这样的  `演唱：林俊杰` ，然后有很多歌曲开头也有这个，你可以填  ` 演唱：*`
 
 ![image](https://github.com/user-attachments/assets/7b8caf75-5654-44bf-a634-dce61aa19ba7)
 
@@ -257,9 +259,9 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 # 7.插件读取
 
-这个插件搜索歌词是读取歌曲的标签字段
+这个插件搜索歌词是读取歌曲的`标签字段`
 
-不是以文件名搜索的，不对的话可以右键最底下那栏点属性，把那两个改对
+不是以文件名搜索的，不对的话可以右键最底下那栏点`属性`，把那两个改对
 
 ![image](https://github.com/user-attachments/assets/e41846ad-73cf-4b3e-8dce-bf540d77c688)
 
@@ -283,10 +285,10 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 # 9.字体
 
-这个是ios的字体
+这个是`ios`的字体
 
 https://developer.apple.com/fonts/
 
-这个是spotify-mix的字体（只支持英文，想支持其他字体得靠软件将其他的字体库合成）
+这个是`spotify-mix`的字体（只支持英文，想支持其他字体得靠软件将其他的字体库合成）
 
 https://en.bestfonts.pro/font/spotify-mix
