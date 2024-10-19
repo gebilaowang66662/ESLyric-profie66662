@@ -6,7 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/9bf47e9a-3fbc-4e38-9393-b9fc62f86027)
 
-插件下载地址：https://github.com/ESLyric/release
 
 上面下不了的可以在这下
 
