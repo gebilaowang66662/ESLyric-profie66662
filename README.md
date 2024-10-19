@@ -25,7 +25,7 @@ https://github.com/ESLyric/release/wiki/%E9%9D%A2%E6%9D%BF%E5%B8%83%E5%B1%80
 
 作者GitHub项目，可以收藏看看有没有更新：
 
-https://github.com/ESLyric/release
+https://github.com/ESLyric/release/releases
 
 ![image](https://github.com/user-attachments/assets/83cc4dbd-87b8-4d91-b190-6e5d278cf1a1)
 
