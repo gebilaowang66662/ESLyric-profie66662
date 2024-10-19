@@ -1,3 +1,5 @@
+1.下载
+=
 要用新版的ESLyric
 
 作者GitHub项目，可以收藏看看有没有更新：https://github.com/ESLyric/release
@@ -17,6 +19,8 @@ https://wwpt.lanzoul.com/b02ihth1de
 
 ------------------------------------------------------------------------------------------
 
+2.安装
+=
 按照下图安装插件重启软件
 
 ![image](https://github.com/user-attachments/assets/0b41147a-ee0c-406f-b380-8d0dbd50ffdb)
@@ -36,6 +40,9 @@ https://wwpt.lanzoul.com/b02ihth1de
 ![image](https://github.com/user-attachments/assets/0a9083a2-a7f9-4d9e-b1f0-d264791d28c0)
 
 ------------------------------------------------------------------------------------------
+
+3.配置
+=
 效果图
 ![image](https://github.com/user-attachments/assets/2dabbb1b-3842-4c0f-b46b-1716b95899b1)
 
@@ -124,6 +131,8 @@ C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\e
 
 ------------------------------------------------------------------------------------------
 
+4.逐字歌词源
+=
 下面是逐字歌词源
 
 原地址：https://github.com/Robotxm/ESLyric-LyricsSource
@@ -172,6 +181,8 @@ C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
 ------------------------------------------------------------------------------------------
 
+5.歌词规则
+=
 歌词上面有原唱那些东西怎么去除
 
 就像下图一样
@@ -185,6 +196,8 @@ C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
 ------------------------------------------------------------------------------------------
 
+6.嵌入封面
+=
 要给歌曲嵌入封面，要不黑压压的看的丑
 
 ![image](https://github.com/user-attachments/assets/df4ea3e5-778d-463f-90f1-b1ab8945601e)
@@ -197,6 +210,8 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ------------------------------------------------------------------------------------------
 
+7.插件读取
+=
 这个插件搜索歌词是读取歌曲的标签字段
 
 不是以文件名搜索的，不对的话可以右键最底下那栏点属性，把那两个改对
@@ -209,6 +224,8 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 
 ------------------------------------------------------------------------------------------
 
+8.无歌词设置
+=
 如果歌曲没有歌词显示
 
 ![image](https://github.com/user-attachments/assets/4363b780-39aa-4680-8982-a6d3233735d9)
@@ -218,6 +235,9 @@ https://www.52pojie.cn/thread-1076546-1-1.html
 ![image](https://github.com/user-attachments/assets/d274ad23-5715-44db-8f7b-bdd0d5cb0236)
 
 ------------------------------------------------------------------------------------------
+
+9.字体
+=
 
 这个是ios的字体
 
