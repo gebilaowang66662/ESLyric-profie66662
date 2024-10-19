@@ -137,7 +137,9 @@ C:\Users\（每个人的用户名字不一样）\AppData\Roaming\foobar2000-v2\e
 =
 下面是逐字歌词源
 
-原地址：https://github.com/Robotxm/ESLyric-LyricsSource
+原地址：
+
+https://github.com/Robotxm/ESLyric-LyricsSource
 
 ![image](https://github.com/user-attachments/assets/712a7c06-ed8a-4ad1-9c87-731fa1b601d5)
 
@@ -159,7 +161,9 @@ https://wwpt.lanzoul.com/b02ihth1de https://wwpt.lanzoul.com/b02ihth1de
 
 C:\Users\gebilaowang66662\AppData\Roaming\foobar2000-v2\eslyric-data\scripts
 
-这个路径，如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，里面会有后面的eslyric-data\scripts
+这个路径
+
+如果找不到，可以去安装文件夹找有没有 profie 这个文件夹，里面会有后面的eslyric-data\scripts
 
 ![image](https://github.com/user-attachments/assets/7fd4ecc1-2047-4559-9222-7f11a8ddd409)
 
