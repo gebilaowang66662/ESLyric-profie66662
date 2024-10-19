@@ -1,3 +1,19 @@
+# 0.配置代码
+
+        <panel layout="stack" name="自定义布局" orientation="horizonal">
+          <element type="text" caption=""anchor="left" height="100%" width="3%"/>
+            <element type="container" width="40%" anchor="vstretch" options="8" >
+              <element type="albumart" width="78%" height="55%" anchor="left" follow-background="1" options="4"/>
+              <element type="text" caption="" anchor="left" height="6%" width="78%"/>
+              <element type="text" caption="%title%" font-size="30" text-color="rgba(255,255,255,1)" text-align="left"anchor="left" height="5%" width="78%" nowrap="1"/>
+              <element type="text" caption="[%artist%]" font-size="25" text-color="rgba(255,255,255,0.5)" text-align="left" anchor="left" height="4%" width="78%" options="4"/>
+            </element>
+          <element type="text" caption=""anchor="left" height="100%" width="0%"/>
+          <element type="container" anchor="vstretch"  width="49%" options="4" >
+            <element type="lyric" text-align="left" anchor="stretch"/>
+          </element>
+        </panel>
+
 # 1.下载
 
 要用新版的ESLyric           
