@@ -266,9 +266,3 @@ https://developer.apple.com/fonts/
 这个是spotify-mix的字体（只支持英文，想支持其他字体得靠软件将其他的字体库合成）
 
 https://en.bestfonts.pro/font/spotify-mix
-
-------------------------------------------------------------------------------------------
-
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=gebilaowang66662/ESLyric-full-screen-imitation-IOS-configuration&type=Date)](https://star-history.com/#gebilaowang66662/ESLyric-full-screen-imitation-IOS-configuration&Date)
