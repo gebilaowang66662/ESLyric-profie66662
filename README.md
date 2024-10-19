@@ -37,7 +37,7 @@
 
 上面下不了的可以在这下
 
-ESLyric插件和布局文件📁：
+ESLyric插件🔩和布局文件📁：
 
 🔗https://wwpt.lanzoul.com/b02ihth1de
 
@@ -47,7 +47,7 @@ ESLyric插件和布局文件📁：
 
 # 2️⃣ 安装 
 
-按照下图安装插件💽重启软件🔄
+按照下图安装插件🔩重启软件🔄
 
 ![image](https://github.com/user-attachments/assets/0b41147a-ee0c-406f-b380-8d0dbd50ffdb)
 
